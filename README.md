@@ -1,2 +1,2 @@
-project
+Craig's Git Project
 =======
